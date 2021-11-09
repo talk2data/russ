@@ -5,7 +5,7 @@
         "search_query": "How do I reset my password?",
         "url": "https://support.crytivo.com/article/18-how-do-i-reset-my-password",
         "instructions": [
-          "Go to http://crytivo.com/", thingtalk_hash, element, dom 
+          "Go to http://crytivo.com/",
           "Click Sign In in the upper right corner",
           "Click Forgot Password",
           "Ask user for email",
